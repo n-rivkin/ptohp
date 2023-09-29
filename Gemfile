@@ -11,5 +11,3 @@ gem 'mini_magick'
 gem 'rake'
 
 gem 'webrick', '~> 1.7'
-
-gem 'github-pages'
